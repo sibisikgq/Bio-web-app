@@ -1,0 +1,38 @@
+body {
+    background: black;
+   color: ghostwhite;
+
+  text-align: center;
+}
+
+h1{
+  font size: large;
+}
+p {
+  fint size:small;
+}
+h1{
+  color: dimgray;
+}
+#my-heading{
+  color: cornsilk;
+}
+#our-way{
+  color: firebrick;
+}
+a {
+  text-decoration: none;
+}
+.profile-img{
+  width: 50%;
+  border-radius: 50%;
+}
+
+.btn{
+  display: block;
+  color: black;
+  padding: 20px;
+background: white;
+  margin: 16px;
+  box-shadow: 5px 10px #888888;
+} 
